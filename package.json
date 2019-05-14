@@ -1,5 +1,5 @@
 {
-  "name": "rn-picker",
+  "name": "react-native-picker",
   "version": "4.4.4",
   "description": "A Native Picker with high performance.",
   "main": "index.js",
