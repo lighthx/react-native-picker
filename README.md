@@ -48,7 +48,7 @@
 #### Step 1 - install
 
 ```javascript
-	npm install react-native-picker --save
+	npm install rn-pickers --save
 ```
 
 #### Step 2 - link
